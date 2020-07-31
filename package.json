@@ -1,0 +1,9 @@
+{
+  "name": "TSTemplate",
+  "version": "1.0.0",
+  "description": "Template for React App using TypeScript",
+  "main": "index.js",
+  "author": "ClintonBaker <c.dillon.baker@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
